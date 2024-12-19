@@ -38,7 +38,4 @@ Our future development will follow **Agile Methodology**, ensuring:
 - Incremental updates to improve features and fix issues faster.
 - Collaboration-focused progress involving all stakeholders.
 
-## Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/AH-Psychoanalyst.git
+
